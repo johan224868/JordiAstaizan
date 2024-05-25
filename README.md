@@ -1,2 +1,2 @@
-# SENSOR-DE-GASES
-sensor de gases con arduino esp32, sensor MQ 135
+# SENSOR-DE-REVOLUVIONES
+sensor de revoluviones con arduino esp32, sensor Hall
